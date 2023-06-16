@@ -4,7 +4,7 @@
     justify-content: space-between;
 }
 
-.cabecalho__menu{
+.cabecalho__menu-hamburguer {
     display: inline-block;
     background-image: url("../img/logobi.png");
     background-repeat: no-repeat;

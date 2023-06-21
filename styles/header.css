@@ -1,11 +1,13 @@
 .cabecalho{
-    background-color: var--(--branco);
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    position: relative;
 }
 
 .cabecalho__menu{
-    display: flex;
+    display: inline-block;
     background-image: url("../img/menu.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -22,6 +24,8 @@
 }
 .lista__menu{
     display: none;
+    position: absolute
+    top:100%;
 }
 .conteiner__botao:checked~.lista__menu{
     display: block;

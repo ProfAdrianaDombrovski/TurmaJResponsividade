@@ -4,11 +4,19 @@
     justify-content: space-between;
 }
 
-.cabecalho__menu-hamburguer {
+.cabecalho__menu{
     display: inline-block;
     background-image: url("../img/logobi.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 24px;
     height: 24px;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.conteiner__imagem{
+    padding: 1em;
 }

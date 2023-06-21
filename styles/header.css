@@ -5,7 +5,7 @@
 }
 
 .cabecalho__menu{
-    display: inline-block;
+    display: flex;
     background-image: url("../img/menu.png");
     background-repeat: no-repeat;
     background-position: center;

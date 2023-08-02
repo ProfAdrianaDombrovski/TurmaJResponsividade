@@ -45,3 +45,13 @@
     .lista__menu-link{
         color: var(--roxo);
 }
+@media screen and (min-width:1024px){
+
+    .container__titulo{
+    display: block;
+    font-family: var(--fonte-secundaria);
+    font-size: 30px;
+    font-weight: 300;
+
+
+}}

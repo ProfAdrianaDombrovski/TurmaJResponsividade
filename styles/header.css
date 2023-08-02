@@ -22,6 +22,9 @@
 .conteiner__imagem{
     padding: 1em;
 }
+.container__titulo--negrito{
+    font-weight: 400;
+}
 .lista__menu{
     display: none;
     position: absolute

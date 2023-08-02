@@ -6,6 +6,7 @@
     --amarelo: #FECD2F;
     --roxo-gradiente: linear-gradient(94.49deg, #f41b9d 35.48%, #f287c7  143.32%);
     --fonte-principal: "Poppins";
+    --fonte-secundaria:"Josefin Sans";
 }
 
 body{

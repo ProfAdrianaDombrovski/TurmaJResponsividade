@@ -42,7 +42,6 @@
         color: var(--amarelo);
         font-weight: 700;
         padding: 1em;
-    
     }
     
     .lista__menu-link{
@@ -69,7 +68,7 @@
   }
   .opcoes__link {
     color: var(--preto);
-    text-decoration: none;
+    text-decoration: none;}
     .conteiner__imagem-transparente{
         display: none;
     }
@@ -77,5 +76,4 @@
         display:none;
     }
 
-}
 }

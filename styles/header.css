@@ -58,6 +58,18 @@
     font-family: var(--fonte-secundaria);
     font-size: 30px;
     font-weight: 300;
+}
+  .opcoes{
+    display: flex;
+  }
+  .opcoes__item{
+    padding: 0 1em;
+    text-transform: uppercase;
+    color: var(--preto);
+  }
+  .opcoes__link {
+    color: var(--preto);
+    text-decoration: none;
 
-
-}}
+}
+}

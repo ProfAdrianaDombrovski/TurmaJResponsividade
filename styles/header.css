@@ -52,7 +52,7 @@
 }
 @media screen and (min-width:1024px){
 
-    .container__titulo{
+    .conteiner__titulo{
     display: block;
     font-family: var(--fonte-secundaria);
     font-size: 30px;
@@ -78,7 +78,7 @@
 
 }
 @media screen and (min-width: 1728px) {
-    .container__link{
+    .conteiner__link{
         display: flex;
         align-items: center;
         text-decoration: none;
